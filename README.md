@@ -2,6 +2,8 @@
 
 (Year 2023)
 
+July 11: KAIST seminar: Brief review of DSGE model
+
 Jun 27: 1st Half of Workshop in 2023
 
 May 30: Preliminary version of SW using Korean data & Discussion on ABM calibration
